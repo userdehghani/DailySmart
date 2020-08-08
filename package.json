@@ -1,0 +1,31 @@
+{
+  "name": "dailysmart",
+  "version": "0.1.0",
+  "description": "SmartDaily - SmartHouse Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/userdehghani/DailySmart.git"
+  },
+  "keywords": [
+    "SmartHouse",
+    "Nodejs",
+    "Expressjs",
+    "GraphQL"
+  ],
+  "author": "userDehghani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/userdehghani/DailySmart/issues"
+  },
+  "homepage": "https://github.com/userdehghani/DailySmart#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
